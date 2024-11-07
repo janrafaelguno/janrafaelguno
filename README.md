@@ -1,6 +1,6 @@
 # 👋 Welcome to Jan Rafael Guno's GitHub!
 
-<img src="./image/Azumarill-Pokemon-PNG-Images-HD.png" alt="Image description" align="right" width="300">
+<img src="./image/Azumarill-Pokemon-PNG-Images-HD.png" alt="Image description" align="right" width="200">
 
 ### Trainer: Jan Rafael Guno  
 **Pokémon:** Azumarill 🐰  
