@@ -1,6 +1,6 @@
 # 👋 Welcome to Jan Rafael Guno's GitHub!
 
-![Trainer Card](https://tcm-assets.pokecharms.com/modern-cards/2024-11-07/e27ee4af-b0c7-4cd0-9924-d304fc0d441a.png)
+![Azumarill](./image/Azumarill-Pokemon-PNG-Images-HD.png)
 
 
 ### Trainer: Jan Rafael Guno  
