@@ -1,5 +1,5 @@
 # 👋 Welcome to Jan Rafael Guno's GitHub!
-
+https://tcm.pokecharms.com/share?s=37c53677-7585-465d-9f09-20d5b052c413&type=modern&cb=m36m8bq6
 ![Azumarill](https://img.pokemondb.net/sprites/silver/normal/azumarill.png)
 
 ### Trainer: Jan Rafael Guno  
