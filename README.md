@@ -48,7 +48,7 @@ Welcome to my **Portfolio Gym**! Here you’ll find projects I’ve developed an
 | **LitShelf** | A literature inventory website for authorized personnel | Laravel, Minimalist Design | 🏆 Completed |
 | **OT Summaries Generator** | Automates OT summaries for employees | PHP | 📈 In Progress |
 | **Location Saver** | Laravel app to store location and household information for ministry | Mobile-First, Laravel | 🛠️ Active |
-
+| **My diversify** | Website used by offshore staffing solutions  | Mobile-First, Laravel, Blade, AWS, Bootstrap | 🛠️ Active |
 ---
 
 ## 🧭 Trainer's Quest
