@@ -1,41 +1,57 @@
-<h1 align="center">Hi 👋, I'm Jan Rafael C. Guno</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+# 👋 Welcome to Jan Rafael Guno's GitHub!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janrafaelguno&label=Profile%20views&color=0e75b6&style=flat" alt="janrafaelguno" /> </p>
+![Azumarill](https://img.pokemondb.net/sprites/silver/normal/azumarill.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janrafaelguno" alt="janrafaelguno" /></a> </p>
+### Trainer: Jan Rafael Guno  
+**Pokémon:** Azumarill 🐰  
+**Level:** 58  
+**Region:** Philippines  
+**Class:** Full-Stack Developer / High-Risk Trader
 
-- 🔭 I’m currently working on [HGS (Hinduja Global Solutions)](https://hgsoss.com)
+---
 
-- 🌱 I’m currently learning **Next.js, Vue, Dominating the world. 🌎**
+## 🏆 Trainer Profile Card
 
-- 👯 I’m looking to collaborate on **any project**
+**Bio:**  
+"Hi! I'm Jan, a passionate developer and tech enthusiast from the Philippines. With an eye for efficient code, an adventurous approach to the latest in tech, and a strong sense of design, I aim to level up my skills and stay one step ahead. From building Laravel applications to crafting minimalist graphic designs, I combine creativity with precision. Currently, I’m exploring AI and tech innovations to make every project a true powerhouse!"
 
-- 👨‍💻 All of my projects are available at [balakajan.guno.dev](balakajan.guno.dev)
+### 🎒 Skills & Equipment
+- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Frameworks:** Laravel, Bootstrap  
+- **Tools:** Git, Laravel Herd, Docker  
+- **Concepts:** API Development, Component-Based Design, AI Integration  
+- **Design Skills:** Minimalist graphic design, Brand building  
+- **Trading:** Bitget high-risk trading strategy  
 
-- 💬 Ask me about **react,php,vue,laravel,c#,javascript,typescript, and react-native**
+### ⚔️ Trainer Specialties
+- **Special Move:** Creating automated, efficient workflows in Laravel  
+- **Focus Move:** Building mobile-first applications for community projects  
+- **Finisher:** Pomodoro technique for productivity and focus  
 
-- 📫 How to reach me **janrafaelcabrillosguno.com**
+---
 
-- 📄 Know about my experiences [balakajan.guno.resume.dev](balakajan.guno.resume.dev)
+## 🎨 Hobbies & Interests
 
-- ⚡ Fun fact **I'm a high-energy multitasker who’s got the art of balance down! I manage to juggle coding, working out for hours, learning languages, playing guitar, and even exploring crypto trading. I’m on a mission to master programming with Laravel and PHP, and I’m pushing to build a physique like a Greek god with a solid V-taper and serious core strength. Guess you could say I’m a powerhouse of ambition! 💪💻**
+- 🎸 Aspiring guitarist, learning the basics one chord at a time  
+- 🧠 Learning Hangul and exploring new languages  
+- 📚 Barong crafting and Filipino heritage  
+- 💪 Fitness enthusiast on the road to a V-taper, with a goal of sculpting a Greek god physique  
+- 🥘 Experimenting with high-protein, low-carb Filipino dishes  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@jan_rafaelguno_58040ad37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jan_rafaelguno_58040ad37" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jan rafael guno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan rafael guno" height="30" width="40" /></a>
-<a href="https://fb.com/jan rafael onug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jan rafael onug" height="30" width="40" /></a>
-<a href="https://instagram.com/janrafael.guno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janrafael.guno" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/j. r. guno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j. r. guno" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jan rafael guno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jan rafael guno" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 🔥 Portfolio – "Battle Achievements"
+Welcome to my **Portfolio Gym**! Here you’ll find projects I’ve developed and designs I’ve crafted, showcasing my journey as a trainer (developer) and the battles I’ve conquered.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janrafaelguno&show_icons=true&locale=en&layout=compact" alt="janrafaelguno" /></p>
+| Project | Description | Skills Used | Status |
+| ------- | ----------- | ----------- | ------ |
+| **LitShelf** | A literature inventory website for authorized personnel | Laravel, Minimalist Design | 🏆 Completed |
+| **OT Summaries Generator** | Automates OT summaries for employees | PHP | 📈 In Progress |
+| **Location Saver** | Laravel app to store location and household information for ministry | Mobile-First, Laravel | 🛠️ Active |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janrafaelguno&show_icons=true&locale=en" alt="janrafaelguno" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janrafaelguno&" alt="janrafaelguno" /></p>
+## 🧭 Trainer's Quest
+"Leveling up as a developer is my journey. Mastering Laravel, expanding into AI, and building my unique Barong brand are just some of my quests. If you're passionate about tech, design, or gaming, let's connect!"
+
+---  
